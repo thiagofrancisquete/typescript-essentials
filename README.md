@@ -1,1 +1,1 @@
-# The complete course of typescript with the _essentials_ concepts 
+# The guide of typescript with the _essentials_ concepts 
